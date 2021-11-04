@@ -251,11 +251,11 @@ namespace WinFormsApp___Asset_Class
             this.button1.FlatAppearance.BorderSize = 50;
             this.button1.Font = new System.Drawing.Font("Andalus", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.button1.Location = new System.Drawing.Point(577, 591);
+            this.button1.Location = new System.Drawing.Point(598, 591);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(666, 94);
             this.button1.TabIndex = 21;
-            this.button1.Text = "Press to Run The Program";
+            this.button1.Text = "Click to Run The Program";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
