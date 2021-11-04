@@ -9,5 +9,5 @@ value or depreciation rate is negative, the set accessor should leave the instan
 Write a test app named AssetTest that demonstrates class Asset’s capabilities.
 Create two Asset objects and display each object's amount of depreciation and their depreciated value. 
 Then increase the value of each asset by 5% and display each asset's amount of depreciation and their depreciated value.
-![main](https://blogger.googleusercontent.com/img/a/AVvXsEhBUu7rzwX-NAvXwWbl484PZptFkcp3aNJZVOdweN6Gc1lKeiT_PaM0LVUAWnh55dy8jTj1FzdtYGL12Y_LDfOBbXngDk3l0DoK0Kg_XA8W_gAtnhD45v1tg6RRbMNUul33dSXjy057DMWXy-EFfedDMg66BGfNla3zUh5H8Pzlsc2Y7NyeD1FmfdyU=s1920)
+![main](https://blogger.googleusercontent.com/img/a/AVvXsEgtXGfRqunDW381oJjgak6ZSvqp53ZnOkneqrvIJbGcNBX6khz-QSp3EdPVUF_Yp-jVp_oi2HoNsRIfc4rNrnI3LTTar_enT827ObCmIs5yhki9av46aUqPDyn4DFZTZbIudQxB6-qptnm3cbRN9Iv-95TIPKGMbTSRaeu6PaBTdWmrSy2rpF-dgUKS=s1912)
 # © Mahmoud Sayed Youssef
